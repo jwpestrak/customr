@@ -1,0 +1,15 @@
+Package: customr
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("James", "Pestrak", , "james.w.pestrak@gmail.com", role = c("aut", "cre")
+  )
+Description: What the package does (one paragraph).
+Depends:
+    R (>= 3.2.4)
+License: GPL-3
+LazyData: TRUE
+URL: https://github.com/jwpestrak/customr
+BugReports: https://github.com/jwpestrak/customr/issues
+Imports:
+    magrittr (>= 1.5)
+RoxygenNote: 5.0.1
